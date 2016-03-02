@@ -1,10 +1,10 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
-# Learning Fermat
+# Getting to know Fermat
 
 ## Introduction
 
-Here wi will guide you step by step, to find all the resources that will allow you to learn about Fermat according to your technical level. We divided this guide into different sections. Plase find a section according to your profile and follow the guidelines in there.
+Here we will guide you step by step, to find all the resources that will allow you to learn about Fermat according to your technical level. We divided this guide into different sections. Plase find a section according to your profile and follow the guidelines in there.
 
 ## Section 1 : Non Technical People
 
