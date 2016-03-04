@@ -1,11 +1,11 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
-# Getting to know Fermat and learning about it.
+# Getting to know Fermat 
 
 ## Introduction
 Fermat is a work-in-progress because is a collaborative project ever evolving with each contribution. 
 
-There are some foundational concepts laid out from its inception, but also and as go deeper in Fermats concepts, new applications and use cases emerge. 
+There are some foundational concepts laid out from its inception, but also as we go deeper in Fermats concepts, new applications and use cases emerge. 
 
 So, we have created this repository to help you find your way among all the available resources to get to know Fermat and grasp it according to your technical level and interest. 
 
