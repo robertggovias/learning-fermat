@@ -17,6 +17,7 @@ Choose the one that best fits you and follow the guidelines!
 ## Section 1 : Non Technical People
 
 * A good starting point to get an overview is [Fermat's official site](http://www.fermat.org).
+* Check first if your question has been already answer in [Fermat's FAQ in videos](https://github.com/Fermat-ORG/fermat-videos)
 
 
 ## Section 2 : Developers
