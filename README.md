@@ -1,6 +1,6 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
-# Getting to know Fermat 
+# Learning Fermat 
 
 ## Introduction
 Fermat is a work-in-progress because is a collaborative project ever evolving with each contribution. 
